@@ -1,0 +1,122 @@
+html {
+  font-size: 16px;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+h1 {
+  font-size: 2.5em;
+  font-weight: 900;
+  text-align: center;
+}
+
+.byline{
+  text-align: center;
+  font-size: 21px;
+}
+
+img{
+  max-width: 900px;
+  display: flex;
+  flex-direction: column;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+.credit{
+  color: gray;
+}
+
+body {
+background-color: #f6eee3;
+}
+
+section img{
+  width: 70%;
+  max-width: 140px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.p1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+}
+
+.p2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+}
+
+.p3{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+}
+
+.p4{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+}
+
+section p{
+  max-width: 250px;
+}
+
+section{
+  display: flex;
+  flex-direction: column;
+  max-width: 25%;
+}
+
+div {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.content-container-a{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
+.content-container-b{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.content-container-c{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+section {
+  border: 3px;
+  padding: 20px;
+  margin: 50px;
+  border-style: solid;
+  border-radius: 10px;
+}
+
+.source {
+  font-size: 12px;
+  text-align: right;
+}
